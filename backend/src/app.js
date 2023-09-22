@@ -1,5 +1,5 @@
 const express = require("express");
-const fluigRouter = require("./routers/fluigRouter");
+const fluigRouter = require("./routes/fluigRouter");
 
 const app = express();
 
